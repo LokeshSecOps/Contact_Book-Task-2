@@ -1,2 +1,2 @@
 # Contact_Book-Task-2
-A Contact Book made during my Codsoft internship
+A Contact book using python made during my Codsoft internship.This repository contains a contact book application implemented in Python. It allows users to store, manage, and interact with their contacts. Features include adding, viewing, updating, and deleting contacts. This project demonstrates my proficiency in Python programming and showcases fundamental skills in data handling and user interface design.
